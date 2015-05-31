@@ -1,7 +1,5 @@
 
-# WebIDL 2
-
-[![NPM version](https://badge.fury.io/js/webidl2.png)](http://badge.fury.io/js/webidl2)
+# WebIDL 2 [![Build Status](https://travis-ci.org/motiz88/webidl2.js.png?branch=master)](https://travis-ci.org/motiz88/webidl2.js)
 
 This is a fork of [darobin/webidl2.js](https://github.com/darobin/webidl2.js).
 
