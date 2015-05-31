@@ -3,6 +3,8 @@
 
 [![NPM version](https://badge.fury.io/js/webidl2.png)](http://badge.fury.io/js/webidl2)
 
+This is a fork of [https://github.com/darobin/webidl2.js](darobin/webidl2.js).
+
 Purpose
 =======
 
@@ -36,7 +38,7 @@ Installation
 
 Just the usual. For Node:
 
-    npm install webidl2
+    npm install @motiz88/webidl2
     
 In the browser:
 
