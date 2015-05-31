@@ -3,7 +3,7 @@
 
 [![NPM version](https://badge.fury.io/js/webidl2.png)](http://badge.fury.io/js/webidl2)
 
-This is a fork of [https://github.com/darobin/webidl2.js](darobin/webidl2.js).
+This is a fork of [darobin/webidl2.js](https://github.com/darobin/webidl2.js).
 
 Purpose
 =======
