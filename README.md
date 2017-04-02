@@ -1,6 +1,8 @@
 
 # WebIDL 2 [![Build Status](https://travis-ci.org/motiz88/webidl2.js.png?branch=master)](https://travis-ci.org/motiz88/webidl2.js)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/motiz88/webidl2.js.svg)](https://greenkeeper.io/)
+
 This is a fork of [darobin/webidl2.js](https://github.com/darobin/webidl2.js).
 
 Purpose
